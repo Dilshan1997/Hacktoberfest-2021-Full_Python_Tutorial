@@ -1,6 +1,6 @@
 # Hacktoberfest-2021-Full_Python_Tutorial
 This tutorial provides an A-Z python tutorial not only for beginners because of some advanced and machine learning libraries and many more things discussed here. 
-# ✨ hacktoberfest2021 💫
+# </>hacktoberfest2021</>
 
 ![banner](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
 
