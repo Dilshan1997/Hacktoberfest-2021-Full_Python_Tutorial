@@ -4,7 +4,7 @@ if is_he_had_a_dog:
 else:
     print("He hadn't dog")
     age=input('age: ')
-    if int(age)<=19 and int(age)>=12:
+    if int(age)<20 and int(age)>=13:
         print("He is a Teenager")
     elif int(age)>19:
         print("He is a Adult")
